@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <kecantikan>
+        <nama_pelanggan>hilma</nama_pelanggan>
+        <alamat>sirnagalih</alamat>
+        <nama_produk>bedak</nama_produk>
+        <kode_produk>7678yhhg</kode_produk>
+    </kecantikan>
+     <kecantikan>
+        <nama_pelanggan>nova</nama_pelanggan>
+        <alamat>singaparna</alamat>
+        <nama_produk>lipcream</nama_produk>
+        <kode_produk>8266guhgz</kode_produk>
+    </kecantikan>
+    <kecantikan>
+        <nama_pelanggan>alviani</nama_pelanggan>
+        <alamat>tasimalaya</alamat>
+        <nama_produk>settingspray</nama_produk>
+        <kode_produk>898ew6ds</kode_produk>
+    </kecantikan>
+</data>
